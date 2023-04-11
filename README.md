@@ -1,9 +1,13 @@
-# CS506-TEMPLATE-base-repo
 
-If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
+# Project Summary
+This project aims to The goal of this project is to understand the drivers of gun violence in Boston's District 4 and compare it to the rest of the city. The project aims to determine the rate of gun violence in the district, identify patterns in terms of location and type of violence, and analyze existing programs meant to curb violence. The results of this analysis will inform policies that can be beneficial for improving the district. 
 
-Create a new branch from your team branch (ex. branch name: <code>sp23-team-1</code>, <code>sp23-team-2</code>,...etc.), add changes to your team folder (on the new branch you just created).
+The project was completed by team-4 composed of Snigdha Reddy Pulim, Patrick Wright, Tarek Mourad, Vaishnavi Vadlamudi.
 
-Open a Pull Request to your team branch (ex. branch name: <code>sp23-team-1</code>). Add your PM and TE as reviewers.  ***Do not delete any team folders.***
 
-At the end of the semester during project wrap up open a final Pull Request to <code>dev</code> from your team branch. 
+## Repository Navigation
+We have conducted analysis in the following:
+
+[list of files and folders in the repository]
+[description of what each file or folder contains]
+
