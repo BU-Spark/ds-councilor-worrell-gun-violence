@@ -59,9 +59,20 @@ As we were able to come up with analytical plots considering various aspects for
     - Analysis made by plotting:
         1. Parks Gun Violence Map
         2. Top 10 community centers with the most shootings within one-mile radius
-        3. Race Segmentation for Community Centers
-        4. Gender Segmentation for Community Centers
+        3. Race Segmentation for Top 10 Community Centers
+        4. Gender Segmentation for Top 10 Community Centers
     - You can access the code, plots, key results and other reports under the `checkpoint-b` folder, for now. (Check `Repository Structure` section below for instructions to access the folder)
+
+- Deliverable 3
+    - Incorporating the feedback from the presentation on the Extension Proposal, we extended our analysis on the Community Centers dataset for finding fatality and victim rates. We also replicated the same analysis for all Community Centers in District 4.
+    - Analysis made by plotting:
+        1. Single vs. Multiple Victims in Top 10 Community Centers
+        2. Fatal vs. Non-Fatal incidents for Top 10 Community Centers
+        3. Race Segmentation for District 4 Community Centers
+        4. Gender Segmentation for District 4 Community Centers
+        5. Single vs. Multiple Victims in District 4 Community Centers
+        6. Fatal vs. Non-Fatal incidents for District 4 Community Centers
+    - You can access the code, plots, key results and other reports under the `deliverable-3` folder, for now. (Check `Repository Structure` section below for instructions to access the folder)
 
 - Scrum Reports: For reviewing our progress of work, across the timeline of the project, please refer to the scrum updates reports under the `reports/scrum` folder. (Check `Repository Structure` section below for instructions to access the folder)
 
