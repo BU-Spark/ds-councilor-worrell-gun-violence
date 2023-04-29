@@ -1,9 +1,11 @@
 Team 2
 ## Project summary
-    Our goal with this project is to comprehend the occurrence of gun violence in 
-    District 4 and throughout the city. We aim to identify the underlying factors
-    that drive the gun violence, and it is analyzed by ploting the geographic
-    distribution and comparative volume of these violence.
+    Gun violence is a serious issue in District 4 of Boston, 
+    as well as in many other district in the Boston city. 
+    The goal of this project is to conduct a comprehensive analysis on
+    the given data of boston city to address this issue.
+    By providing valuable insights, 
+    the project aims to find data-driven policies and strategies to reducing gun violence in District 4 and across Boston.
 ## What we did
     - Compared the population distribution in different district.
     - Extract shooting data from crime incident report.
@@ -19,3 +21,14 @@ Team 2
 ## Future 
     - For runing the code of pattern-1 and pattern_modified. We need the python interpreter, 
     and packages including pandas, numpy, folium, re, geopandas, matplotlib.
+    
+```bash
+pip install math
+pip install geopandas
+pip install shapely
+pip install folium
+pip install seaborn
+pip install pandas
+pip install numpy
+pip install matplotlib
+```
