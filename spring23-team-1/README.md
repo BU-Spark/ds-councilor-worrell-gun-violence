@@ -1,5 +1,12 @@
 # Councilor Worrell Gun Violence - Team 1 <br>
 
+## Team Members <br>
+* Shaunak Joshi (Team Lead)
+* Marcel Aubry
+* Angela Castronuovo
+* Hemant Singh
+
+
 ## Project Description <br>
 Councilor Worrell, a Boston City Councilman for District 4, seeks to understand Gun Violence in the community first focusing on District 4 and then the city as a whole and its impact. There has been an uptick in gun possession amongst the youth which is concerning. This project seeks to understand what variables may be associated with increases or decreases in (police presence, poverty, population movements, etc) and look at existing programs meant to help or curb such a thing. Ultimately the project goal is to determine what drivers of violence looks like in District 4 as compared to other areas, but as a foundation, we need to understand the comparative volume and geographic distribution of gun violence in the district and beyond. The results of this analysis will hopefully inform policies that can be beneficial for improving the district. 
 
