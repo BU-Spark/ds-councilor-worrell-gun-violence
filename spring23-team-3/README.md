@@ -74,6 +74,14 @@ As we were able to come up with analytical plots considering various aspects for
         6. Fatal vs. Non-Fatal incidents for District 4 Community Centers
     - You can access the code, plots, key results and other reports under the `deliverable-3` folder, for now. (Check `Repository Structure` section below for instructions to access the folder)
 
+- Deliverable 4
+    - Incorporating the feedback from the presentation of Deliverable 3, we extended our analysis on the Community Centers dataset for finding the ethnicity analysis for Top 10 and District 4 community centers.
+    - Analysis made by plotting:
+        1. Hispanic Segmentation for Top 10 Community Centers
+        2. Hispanic Segmentation for District 4 Community Centers
+    - You can access the code, plots, key results and other reports under the `deliverable-4` folder, for now. (Check `Repository Structure` section below for instructions to access the folder)
+
+
 - Scrum Reports: For reviewing our progress of work, across the timeline of the project, please refer to the scrum updates reports under the `reports/scrum` folder. (Check `Repository Structure` section below for instructions to access the folder)
 
 ## Repository structure
@@ -90,6 +98,8 @@ Make sure you are in branch `team-3` for accessing our work done so far
 │   │   ├── deliverable-0
 │   │   ├── deliverable-1
 │   │   ├── deliverable-2
+│   │   ├── deliverable-3
+│   │   ├── deliverable-4
 │   ├── reports
 │   │   ├── scrum
 │   │   |   ├── <chronologically named reports>
