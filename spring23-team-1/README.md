@@ -22,5 +22,6 @@ The repository contains a multitude of files. These include:
 * PDF files, for our deliverable reports.
 
 ## Information for Future Users to Get the Code Running <br> 
-As of Deliverable 2, all the relevant code is stored under team_1_deliverable_2.ipynb. <br>
+As of Deliverable 1,2,3,4 all the relevant code is stored under respective deliverable folders. <br>
+
 Simply run the notebook to see what has been done and to continue further progress.
